@@ -44,7 +44,7 @@ def cut_grass(tool, balance):
 def main():
     balance = 0
     tool = "teeth"
-    win_balance = 1000  # You can change this to a lower value for easier testing.
+    win_balance = 1000
 
     print("Welcome to the Landscaper Game!")
     print("Start your landscaping business and earn money to buy tools and hire a team.")
